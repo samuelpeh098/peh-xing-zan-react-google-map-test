@@ -2,7 +2,7 @@
 
 ### Set Up
 
-Add a .end.local file in your root directory and paste your GOOGLE MAP API KEY
+Add a .env.local file in your root directory and paste your GOOGLE MAP API KEY
 
 ```
 NEXT_PUBLIC_GOOGLE_MAPS_API_KEY="<Your Google Map API Key>"
