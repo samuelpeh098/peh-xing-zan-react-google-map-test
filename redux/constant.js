@@ -1,0 +1,5 @@
+export const PLACE_SEARCHED="PLACE_SEARCHED"
+
+
+
+
